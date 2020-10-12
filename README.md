@@ -1,3 +1,3 @@
 # Kaggle Competitions Code
 
-Python Notebooks + code from competitions on Kaggle. Enjoy!
+Python Notebooks from competitions on Kaggle. Hoping to add more to this repo as I continue my career. Enjoy!
